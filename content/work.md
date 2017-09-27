@@ -9,13 +9,4 @@ draft = false
     $.bigfoot();
 </script>
 
-
-Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.[^a footnote]
-<p>
-    <sup id="fnref:1">
-        <a href="#fn:1" rel="footnote">1</a>
-    </sup>
-</p>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.
-[^a footnote]: (This is the footnote itself)
+WE engage with companies and work closely with them to build employee engagement.
