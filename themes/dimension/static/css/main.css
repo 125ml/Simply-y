@@ -456,6 +456,7 @@ input[type="radio"] + label:before {
   height: 200px;
   overflow: hidden;
   border-radius: 50%;
+  display: inline-block;
 }
 
 .circular--portrait img {
