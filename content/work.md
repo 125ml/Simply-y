@@ -9,4 +9,4 @@ draft = false
     $.bigfoot();
 </script>
 
-WE engage with companies and work closely with them to build employee engagement.
+We engage with companies and work closely with them to build employee engagement.
