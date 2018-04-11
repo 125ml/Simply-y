@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->Building the right conditions for growth in your organisation<!--]--><br />
+  description = '<!--[-->Build the right conditions for growth in your organisation<!--]--><br />
                 <!--[-->by improving understanding of your people, customers and organisation<!--]-->'
   logo = "fa-line-chart"
 
