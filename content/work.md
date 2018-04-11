@@ -1,5 +1,5 @@
 +++
-title = "Work"
+title = "What"
 weight = 20
 draft = false
 +++
@@ -9,4 +9,4 @@ draft = false
     $.bigfoot();
 </script>
 
-We engage with companies and work closely with them to build employee engagement.
+We share what we know to help others build change in their organisations and really make a difference.
